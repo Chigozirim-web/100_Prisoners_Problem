@@ -28,5 +28,5 @@ Your task is to simulate this game, implementing a C program.
 
 The full question decription can be found here https://cnds.jacobs-university.de/courses/os-2021/p04.pdf
 
-PS.: Copy code at your at your own risk!
+PS.: Constructive review accommodated.
 
